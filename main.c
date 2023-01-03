@@ -13,7 +13,7 @@ Initial Function2()
 
 
 }
-Feature1
+Feature2
 {
-//Feature1 Sample code
+ Sample code
 }
