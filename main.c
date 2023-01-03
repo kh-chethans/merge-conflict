@@ -18,5 +18,9 @@ security patch()
 }
 Feature2
 {
- Sample code
+// Sample code
+}
+Feature1
+{
+//Sample code
 }
